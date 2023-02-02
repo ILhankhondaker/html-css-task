@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+
+
+
+.firstname{
+    background-color: coral;
+  
+}
+
+#name{
+    text-align: center;
+  
+}
+#abc{
+    text-align: end;
+}
+
+#name{
+    text-align: start;
+}
